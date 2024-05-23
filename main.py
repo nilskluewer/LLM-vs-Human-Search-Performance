@@ -23,7 +23,7 @@ init()  # Initialisiere Colorama
 
 load_dotenv()
 client = OpenAI(
-    organization=os.environ.get("OPENAI_ORG_KEY_1"),
+    #organization=os.environ.get("OPENAI_ORG_KEY_1"),
     api_key=os.environ.get("OPENAI_API_KEY_1")
 )
 
