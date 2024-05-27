@@ -1,5 +1,5 @@
 colorama==0.4.6
-duckduckgo_search==6.1.0
+duckduckgo_search==6.1.1
 openai==1.30.2
 pandas==2.2.2
 python-dotenv==1.0.1
