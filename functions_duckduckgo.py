@@ -62,10 +62,10 @@ def duckduckgo_text_search(
     return str(results), results
 
 
-"""
+
 results = duckduckgo_text_search(keywords="TU Wien, Lobeshymnen")
 print(results)
-
+"""
 print("Search Results:")
 print("---------------")
 

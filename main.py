@@ -10,7 +10,7 @@ import time
 import datetime
 
 # Set custom query -> press run if API Keys are set.
-custom_query = "Why am I here?"
+custom_query = "Was ist die Hauptsadt von Italien?"
 
 model = "gpt-3.5-turbo"
 temperatur = 0.0
