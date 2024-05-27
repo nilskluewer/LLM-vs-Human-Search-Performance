@@ -10,7 +10,9 @@ import time
 import datetime
 
 # Set custom query -> press run if API Keys are set.
-custom_query = "Why am I here?"
+custom_query = ("How did the socio-political context of 17th-century Netherlands "
+                "influence the evolution of still life paintings, particularly with"
+                " respect to symbolism and everyday objects depicted?")
 
 model = "gpt-3.5-turbo"
 temperatur = 0.0
