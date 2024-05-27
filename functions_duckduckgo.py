@@ -61,7 +61,7 @@ def duckduckgo_text_search(
     )
     return str(results), results
 
-
+# To test the search engine
 """
 results = duckduckgo_text_search(keywords="TU Wien, Lobeshymnen")
 print(results)
